@@ -78,3 +78,5 @@ here
 
 <img src="res/image-20251017150500627.png" alt="image-20251017150500627" style="zoom:33%;" />
 
+![Image]("res/image-20251017150500627.png"){:.border}
+
