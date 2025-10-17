@@ -73,3 +73,8 @@ int derangement_math(int n) {
     return factorial(n) * sum;
 }
 ```
+
+here
+
+<img src="res/image-20251017150500627.png" alt="image-20251017150500627" style="zoom:33%;" />
+
